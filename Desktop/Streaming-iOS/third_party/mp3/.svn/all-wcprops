@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/mp3
+END
+BladeMP3EncDLL.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/mp3/BladeMP3EncDLL.h
+END
+mp3_port.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/mp3/mp3_port.h
+END
+mp3_writer.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/mp3/mp3_writer.c
+END

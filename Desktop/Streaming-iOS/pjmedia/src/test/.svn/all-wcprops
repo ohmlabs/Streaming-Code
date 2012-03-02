@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/3816/pjproject/branches/1.x/pjmedia/src/test
+END
+audio_tool.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/src/test/audio_tool.c
+END
+sdp_neg_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/src/test/sdp_neg_test.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/3681/pjproject/branches/1.x/pjmedia/src/test/test.c
+END
+codec_vectors.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/src/test/codec_vectors.c
+END
+session_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/src/test/session_test.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/src/test/main.c
+END
+rtp_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/src/test/rtp_test.c
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/src/test/test.h
+END
+wsola_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/src/test/wsola_test.c
+END
+jbuf_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/3814/pjproject/branches/1.x/pjmedia/src/test/jbuf_test.c
+END
+sdptest.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/src/test/sdptest.c
+END
+mips_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/3816/pjproject/branches/1.x/pjmedia/src/test/mips_test.c
+END
+wince_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/src/test/wince_main.c
+END

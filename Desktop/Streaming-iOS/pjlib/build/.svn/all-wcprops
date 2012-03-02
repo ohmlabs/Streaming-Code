@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/!svn/ver/3677/pjproject/branches/1.x/pjlib/build
+END
+os-rtems.mak
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/os-rtems.mak
+END
+cacert.pem
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/cacert.pem
+END
+pjlib_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/pjlib_test.dsp
+END
+pjlib.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/pjlib.dsp
+END
+os-linux.mak
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/os-linux.mak
+END
+pjlib++-test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/pjlib++-test.dsp
+END
+os-win32.mak
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/os-win32.mak
+END
+pjlib_samples.mak
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/pjlib_samples.mak
+END
+pjlib.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/pjlib.dsw
+END
+os-sunos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/os-sunos.mak
+END
+pjlib_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/pjlib_test.vcproj
+END
+pjlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/pjlib.vcproj
+END
+os-linux-kernel.mak
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/os-linux-kernel.mak
+END
+os-auto.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/os-auto.mak.in
+END
+privkey.pem
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/privkey.pem
+END
+pjlib_samples.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/pjlib_samples.dsp
+END
+pjlib++.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/pjlib++.dsp
+END
+os-darwinos.mak
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/build/os-darwinos.mak
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/3677/pjproject/branches/1.x/pjlib/build/Makefile
+END

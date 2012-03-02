@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/ilbc
+END
+libilbccodec.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/ilbc/libilbccodec.vcproj
+END
+libilbccodec.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/ilbc/libilbccodec.dsp
+END
+libilbccodec.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/ilbc/libilbccodec.vcp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/ilbc/Makefile
+END

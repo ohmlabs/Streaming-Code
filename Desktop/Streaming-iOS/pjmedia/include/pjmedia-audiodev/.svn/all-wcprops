@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/3748/pjproject/branches/1.x/pjmedia/include/pjmedia-audiodev
+END
+audiodev.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/include/pjmedia-audiodev/audiodev.h
+END
+audiotest.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/include/pjmedia-audiodev/audiotest.h
+END
+audiodev_imp.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/include/pjmedia-audiodev/audiodev_imp.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/3748/pjproject/branches/1.x/pjmedia/include/pjmedia-audiodev/config.h
+END
+errno.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/include/pjmedia-audiodev/errno.h
+END

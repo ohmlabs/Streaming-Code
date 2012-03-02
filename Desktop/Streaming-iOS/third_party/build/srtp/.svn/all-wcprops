@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/srtp
+END
+libsrtp.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/srtp/libsrtp.vcproj
+END
+srtp_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/srtp/srtp_config.h
+END
+libsrtp.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/srtp/libsrtp.dsp
+END
+libsrtp.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/srtp/libsrtp.vcp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/srtp/Makefile
+END

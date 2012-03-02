@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/build/wince-evc4
+END
+pjmedia_test.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/build/wince-evc4/pjmedia_test.vcp
+END
+pjmedia_codec_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/build/wince-evc4/pjmedia_codec_wince.vcp
+END
+pjmedia_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/build/wince-evc4/pjmedia_wince.vcp
+END
+pjmedia_wince.vcw
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/build/wince-evc4/pjmedia_wince.vcw
+END
+pjmedia_auddev_wince.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/build/wince-evc4/pjmedia_auddev_wince.vcp
+END

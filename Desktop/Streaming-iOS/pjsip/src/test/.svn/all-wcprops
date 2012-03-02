@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test
+END
+main_rtems.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/main_rtems.c
+END
+uri_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/uri_test.c
+END
+transport_tcp_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/transport_tcp_test.c
+END
+transport_udp_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/transport_udp_test.c
+END
+tsx_uac_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/tsx_uac_test.c
+END
+main_win32.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/main_win32.c
+END
+dlg_core_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/dlg_core_test.c
+END
+tsx_bench.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/tsx_bench.c
+END
+tsx_basic_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/tsx_basic_test.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/test.c
+END
+regc_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/regc_test.c
+END
+multipart_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/multipart_test.c
+END
+dns_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/dns_test.c
+END
+transport_loop_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/transport_loop_test.c
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/test.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/main.c
+END
+txdata_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/txdata_test.c
+END
+msg_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/msg_test.c
+END
+msg_logger.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/msg_logger.c
+END
+tsx_uas_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/tsx_uas_test.c
+END
+transport_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/transport_test.c
+END
+inv_offer_answer_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/inv_offer_answer_test.c
+END
+msg_err_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip/src/test/msg_err_test.c
+END

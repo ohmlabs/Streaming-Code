@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/crypto/hash
+END
+auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/crypto/hash/auth.c
+END
+hmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/crypto/hash/hmac.c
+END
+null_auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/crypto/hash/null_auth.c
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/crypto/hash/sha1.c
+END

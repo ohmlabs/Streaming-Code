@@ -1,0 +1,40 @@
+10
+
+dir
+3895
+http://svn.pjsip.org/repos/pjproject/branches/1.x/pjmedia/src
+http://svn.pjsip.org/repos
+
+
+
+2011-11-02T07:50:44.277198Z
+3880
+nanang
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74dad513-b988-da41-8d7b-12977e46ad98
+
+test
+dir
+
+pjmedia-codec
+dir
+
+pjmedia-audiodev
+dir
+
+pjmedia
+dir
+
