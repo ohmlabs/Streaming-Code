@@ -1,0 +1,441 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1D3623260D0F684500981E51 /* MainAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* MainAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		2899E5220DE3E06400AC0155 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2899E5210DE3E06400AC0155 /* MainViewController.xib */; };
+		28D7ACF80DDB3853001CB0EB /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* MainViewController.m */; };
+		EE069428131307D200272F35 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EE069427131307D200272F35 /* SystemConfiguration.framework */; };
+		EE06942A131307D900272F35 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EE069429131307D900272F35 /* CFNetwork.framework */; };
+		EE06942C131307EE00272F35 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = EE06942B131307EE00272F35 /* libz.dylib */; };
+		EE06942E131307F400272F35 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EE06942D131307F400272F35 /* MobileCoreServices.framework */; };
+		EE4D34121332CC70006B881C /* close.png in Resources */ = {isa = PBXBuildFile; fileRef = EE4D340A1332CC70006B881C /* close.png */; };
+		EE4D34131332CC70006B881C /* close@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EE4D340B1332CC70006B881C /* close@2x.png */; };
+		EE4D34161332CC70006B881C /* notification-portrait.png in Resources */ = {isa = PBXBuildFile; fileRef = EE4D340E1332CC70006B881C /* notification-portrait.png */; };
+		EE4D34171332CC70006B881C /* notification-portrait@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EE4D340F1332CC70006B881C /* notification-portrait@2x.png */; };
+		EE4D34181332CC70006B881C /* spinner-bg.png in Resources */ = {isa = PBXBuildFile; fileRef = EE4D34101332CC70006B881C /* spinner-bg.png */; };
+		EE4D34191332CC70006B881C /* spinner-bg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = EE4D34111332CC70006B881C /* spinner-bg@2x.png */; };
+		EE6BCD711320603E004CC9BB /* libKiip.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EE6BCD6A1320603E004CC9BB /* libKiip.a */; };
+		EE6BCD721320603E004CC9BB /* libKiip.a in Frameworks */ = {isa = PBXBuildFile; fileRef = EE6BCD6C1320603E004CC9BB /* libKiip.a */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* MainAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* MainAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* Kiip Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Kiip Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		2899E5210DE3E06400AC0155 /* MainViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MainViewController.xib; sourceTree = "<group>"; };
+		28D7ACF60DDB3853001CB0EB /* MainViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* MainViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* Kiip-Example_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Kiip-Example_Prefix.pch"; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* Kiip-Example-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "Kiip-Example-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
+		EE069427131307D200272F35 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		EE069429131307D900272F35 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		EE06942B131307EE00272F35 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		EE06942D131307F400272F35 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		EE4D340A1332CC70006B881C /* close.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = close.png; sourceTree = "<group>"; };
+		EE4D340B1332CC70006B881C /* close@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "close@2x.png"; sourceTree = "<group>"; };
+		EE4D340E1332CC70006B881C /* notification-portrait.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "notification-portrait.png"; sourceTree = "<group>"; };
+		EE4D340F1332CC70006B881C /* notification-portrait@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "notification-portrait@2x.png"; sourceTree = "<group>"; };
+		EE4D34101332CC70006B881C /* spinner-bg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "spinner-bg.png"; sourceTree = "<group>"; };
+		EE4D34111332CC70006B881C /* spinner-bg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "spinner-bg@2x.png"; sourceTree = "<group>"; };
+		EE6BCD5E1320603E004CC9BB /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = index.html; sourceTree = "<group>"; };
+		EE6BCD5F1320603E004CC9BB /* toc.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = toc.html; sourceTree = "<group>"; };
+		EE6BCD601320603E004CC9BB /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = index.html; sourceTree = "<group>"; };
+		EE6BCD611320603E004CC9BB /* toc.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html.documentation; path = toc.html; sourceTree = "<group>"; };
+		EE6BCD641320603E004CC9BB /* Kiip.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Kiip.h; sourceTree = "<group>"; };
+		EE6BCD651320603E004CC9BB /* KPErrors.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KPErrors.h; sourceTree = "<group>"; };
+		EE6BCD661320603E004CC9BB /* KPManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KPManager.h; sourceTree = "<group>"; };
+		EE6BCD671320603E004CC9BB /* KPManagerDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KPManagerDelegate.h; sourceTree = "<group>"; };
+		EE6BCD681320603E004CC9BB /* KPUIConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KPUIConstants.h; sourceTree = "<group>"; };
+		EE6BCD6A1320603E004CC9BB /* libKiip.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libKiip.a; sourceTree = "<group>"; };
+		EE6BCD6C1320603E004CC9BB /* libKiip.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libKiip.a; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+				EE069428131307D200272F35 /* SystemConfiguration.framework in Frameworks */,
+				EE06942A131307D900272F35 /* CFNetwork.framework in Frameworks */,
+				EE06942C131307EE00272F35 /* libz.dylib in Frameworks */,
+				EE06942E131307F400272F35 /* MobileCoreServices.framework in Frameworks */,
+				EE6BCD711320603E004CC9BB /* libKiip.a in Frameworks */,
+				EE6BCD721320603E004CC9BB /* libKiip.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				1D3623240D0F684500981E51 /* MainAppDelegate.h */,
+				1D3623250D0F684500981E51 /* MainAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* MainViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* MainViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* Kiip Example.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				EE6BCD581320603E004CC9BB /* Kiip */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* Kiip-Example_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2899E5210DE3E06400AC0155 /* MainViewController.xib */,
+				8D1107310486CEB800E47090 /* Kiip-Example-Info.plist */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+				EE069427131307D200272F35 /* SystemConfiguration.framework */,
+				EE069429131307D900272F35 /* CFNetwork.framework */,
+				EE06942B131307EE00272F35 /* libz.dylib */,
+				EE06942D131307F400272F35 /* MobileCoreServices.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EE4D34091332CC70006B881C /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				EE4D340A1332CC70006B881C /* close.png */,
+				EE4D340B1332CC70006B881C /* close@2x.png */,
+				EE4D340E1332CC70006B881C /* notification-portrait.png */,
+				EE4D340F1332CC70006B881C /* notification-portrait@2x.png */,
+				EE4D34101332CC70006B881C /* spinner-bg.png */,
+				EE4D34111332CC70006B881C /* spinner-bg@2x.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		EE6BCD581320603E004CC9BB /* Kiip */ = {
+			isa = PBXGroup;
+			children = (
+				EE4D34091332CC70006B881C /* Images */,
+				EE6BCD591320603E004CC9BB /* Documentation */,
+				EE6BCD631320603E004CC9BB /* Headers */,
+				EE6BCD691320603E004CC9BB /* iphoneos */,
+				EE6BCD6B1320603E004CC9BB /* iphonesimulator */,
+			);
+			path = Kiip;
+			sourceTree = "<group>";
+		};
+		EE6BCD591320603E004CC9BB /* Documentation */ = {
+			isa = PBXGroup;
+			children = (
+				EE6BCD5A1320603E004CC9BB /* css */,
+				EE6BCD5B1320603E004CC9BB /* KPManager_h */,
+				EE6BCD621320603E004CC9BB /* KPManagerDelegate_h */,
+			);
+			path = Documentation;
+			sourceTree = "<group>";
+		};
+		EE6BCD5A1320603E004CC9BB /* css */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = css;
+			sourceTree = "<group>";
+		};
+		EE6BCD5B1320603E004CC9BB /* KPManager_h */ = {
+			isa = PBXGroup;
+			children = (
+				EE6BCD5C1320603E004CC9BB /* Classes */,
+				EE6BCD601320603E004CC9BB /* index.html */,
+				EE6BCD611320603E004CC9BB /* toc.html */,
+			);
+			path = KPManager_h;
+			sourceTree = "<group>";
+		};
+		EE6BCD5C1320603E004CC9BB /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				EE6BCD5D1320603E004CC9BB /* KPManager */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		EE6BCD5D1320603E004CC9BB /* KPManager */ = {
+			isa = PBXGroup;
+			children = (
+				EE6BCD5E1320603E004CC9BB /* index.html */,
+				EE6BCD5F1320603E004CC9BB /* toc.html */,
+			);
+			path = KPManager;
+			sourceTree = "<group>";
+		};
+		EE6BCD621320603E004CC9BB /* KPManagerDelegate_h */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = KPManagerDelegate_h;
+			sourceTree = "<group>";
+		};
+		EE6BCD631320603E004CC9BB /* Headers */ = {
+			isa = PBXGroup;
+			children = (
+				EE6BCD641320603E004CC9BB /* Kiip.h */,
+				EE6BCD651320603E004CC9BB /* KPErrors.h */,
+				EE6BCD661320603E004CC9BB /* KPManager.h */,
+				EE6BCD671320603E004CC9BB /* KPManagerDelegate.h */,
+				EE6BCD681320603E004CC9BB /* KPUIConstants.h */,
+			);
+			path = Headers;
+			sourceTree = "<group>";
+		};
+		EE6BCD691320603E004CC9BB /* iphoneos */ = {
+			isa = PBXGroup;
+			children = (
+				EE6BCD6A1320603E004CC9BB /* libKiip.a */,
+			);
+			path = iphoneos;
+			sourceTree = "<group>";
+		};
+		EE6BCD6B1320603E004CC9BB /* iphonesimulator */ = {
+			isa = PBXGroup;
+			children = (
+				EE6BCD6C1320603E004CC9BB /* libKiip.a */,
+			);
+			path = iphonesimulator;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* Kiip-Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Kiip-Example" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Kiip-Example";
+			productName = "kiip-ios-demo";
+			productReference = 1D6058910D05DD3D006BFB54 /* Kiip Example.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Kiip, Inc";
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Kiip-Example" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* Kiip-Example */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2899E5220DE3E06400AC0155 /* MainViewController.xib in Resources */,
+				EE4D34121332CC70006B881C /* close.png in Resources */,
+				EE4D34131332CC70006B881C /* close@2x.png in Resources */,
+				EE4D34161332CC70006B881C /* notification-portrait.png in Resources */,
+				EE4D34171332CC70006B881C /* notification-portrait@2x.png in Resources */,
+				EE4D34181332CC70006B881C /* spinner-bg.png in Resources */,
+				EE4D34191332CC70006B881C /* spinner-bg@2x.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				1D3623260D0F684500981E51 /* MainAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* MainViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = (
+					armv6,
+					"$(ARCHS_STANDARD_32_BIT)",
+				);
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Kiip-Example_Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = Kiip/Headers;
+				INFOPLIST_FILE = "Kiip-Example-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				LIBRARY_SEARCH_PATHS = "$(SRCROOT)/Kiip/$(PLATFORM_NAME)";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-weak-lSystem",
+					"-lKiip",
+				);
+				PRODUCT_NAME = "Kiip Example";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = (
+					armv6,
+					"$(ARCHS_STANDARD_32_BIT)",
+				);
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Kiip-Example_Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				INFOPLIST_FILE = "Kiip-Example-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 3.0;
+				LIBRARY_SEARCH_PATHS = "$(SRCROOT)/Kiip/$(PLATFORM_NAME)";
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"-weak-lSystem",
+					"-lKiip",
+				);
+				PRODUCT_NAME = "Kiip Example";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = "Kiip-v0.1.0/Headers";
+				LIBRARY_SEARCH_PATHS = "Kiip-v0.1.0/$(PLATFORM_NAME)";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Kiip-Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Kiip-Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

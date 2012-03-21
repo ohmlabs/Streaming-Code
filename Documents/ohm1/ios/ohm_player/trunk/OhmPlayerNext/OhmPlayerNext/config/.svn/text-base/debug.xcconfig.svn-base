@@ -1,0 +1,11 @@
+//
+//  debug.xcconfig
+//
+//  Created by Reg on 1/25/11.
+
+
+#include "base.xcconfig"
+
+OTHER_CFLAGS = -DDEBUG
+GCC_OPTIMIZATION_LEVEL = 0
+COPY_PHASE_STRIP = NO

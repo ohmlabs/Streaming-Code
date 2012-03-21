@@ -1,0 +1,4 @@
+GCC_PREFIX_HEADER = OhmPlayer4/OhmPlayer4-Prefix.pch
+INFOPLIST_FILE = OhmPlayer4/OhmPlayer4-Info.plist
+PRODUCT_NAME = OhmPlayer4
+WRAPPER_EXTENSION = app

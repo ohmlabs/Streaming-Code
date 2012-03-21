@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/SoundcloudAPI/Sources/OAuth/Sources
+END
+NSString+NXOAuth2.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/SoundcloudAPI/Sources/OAuth/Sources/NSString+NXOAuth2.h
+END
+SoundCloudUI-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/SoundcloudAPI/Sources/OAuth/Sources/SoundCloudUI-Prefix.pch
+END
+NSURL+NXOAuth2.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/SoundcloudAPI/Sources/OAuth/Sources/NSURL+NXOAuth2.m
+END
+NSData+NXOAuth2.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/SoundcloudAPI/Sources/OAuth/Sources/NSData+NXOAuth2.h
+END
+NSString+NXOAuth2.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/SoundcloudAPI/Sources/OAuth/Sources/NSString+NXOAuth2.m
+END
+OAuth2Client_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/SoundcloudAPI/Sources/OAuth/Sources/OAuth2Client_Prefix.pch
+END
+NSData+NXOAuth2.m
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/SoundcloudAPI/Sources/OAuth/Sources/NSData+NXOAuth2.m
+END
+NSURL+NXOAuth2.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/SoundcloudAPI/Sources/OAuth/Sources/NSURL+NXOAuth2.h
+END

@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ohm1/!svn/ver/28/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/main.m
+END
+MusicQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/MusicQueue.m
+END
+DeviceSong.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ohm1/!svn/ver/8/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/DeviceSong.m
+END
+OhmPlayerNext-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ohm1/!svn/ver/18/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/OhmPlayerNext-Info.plist
+END
+VaultArtistsView.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/VaultArtistsView.h
+END
+VaultArtistsView.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ohm1/!svn/ver/24/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/VaultArtistsView.m
+END
+SimulatorSong.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/SimulatorSong.h
+END
+play_btn_up.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ohm1/!svn/ver/16/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/play_btn_up.png
+END
+SimulatorSong.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/SimulatorSong.m
+END
+VaultSongCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ohm1/!svn/ver/16/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/VaultSongCell.xib
+END
+OhmPlayerNext-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/OhmPlayerNext-Prefix.pch
+END
+Alpha_vault-sized-background copy.png
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/Alpha_vault-sized-background%20copy.png
+END
+VaultViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ohm1/!svn/ver/16/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/VaultViewController.xib
+END
+twitter_down.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ohm1/!svn/ver/18/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/twitter_down.png
+END
+fb_up.png
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ohm1/!svn/ver/18/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/fb_up.png
+END
+Alpha_vault_.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/Alpha_vault_.jpg
+END
+album_chrome.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/album_chrome.png
+END
+VaultAlbumsView.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/VaultAlbumsView.h
+END
+OhmPlayerNextAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/OhmPlayerNextAppDelegate.h
+END
+MusicLibrarySong.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/MusicLibrarySong.h
+END
+VaultAlbumsView.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ohm1/!svn/ver/19/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/VaultAlbumsView.m
+END
+Vault-background copy.png
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/Vault-background%20copy.png
+END
+OhmPlayerNextAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ohm1/!svn/ver/18/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/OhmPlayerNextAppDelegate.m
+END
+SearchViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/SearchViewController.h
+END
+pause_btn_down.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ohm1/!svn/ver/16/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/pause_btn_down.png
+END
+VaultArtistIndexView.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/VaultArtistIndexView.h
+END
+MusicLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ohm1/!svn/ver/15/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/MusicLibrary.h
+END
+DeviceMusicQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ohm1/!svn/ver/25/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/DeviceMusicQueue.h
+END
+VaultSongsTableViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/VaultSongsTableViewController.xib
+END
+Mock_up.iphone.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ohm1/!svn/ver/16/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/Mock_up.iphone.jpg
+END
+SearchViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/SearchViewController.m
+END
+VaultArtistIndexView.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ohm1/!svn/ver/27/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/VaultArtistIndexView.m
+END
+MusicLibrary.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/MusicLibrary.m
+END
+DeviceMusicQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ohm1/!svn/ver/25/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/DeviceMusicQueue.m
+END
+fb_down.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ohm1/!svn/ver/18/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/fb_down.png
+END
+shuffle_down.png
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ohm1/!svn/ver/16/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/shuffle_down.png
+END
+SimulatorMusicQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ohm1/!svn/ver/7/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/SimulatorMusicQueue.h
+END
+SimulatorMusicQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ohm1/!svn/ver/12/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/SimulatorMusicQueue.m
+END
+SetupViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/SetupViewController.xib
+END
+SetupViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/SetupViewController.h
+END
+OhmTargetConditionals.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/OhmTargetConditionals.h
+END
+twitter_up.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ohm1/!svn/ver/18/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/twitter_up.png
+END
+SetupViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/SetupViewController.m
+END
+DeviceMusicLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ohm1/!svn/ver/15/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/DeviceMusicLibrary.h
+END
+PlayerViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ohm1/!svn/ver/20/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/PlayerViewController.xib
+END
+back_btn_down.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ohm1/!svn/ver/16/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/back_btn_down.png
+END
+VaultViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ohm1/!svn/ver/10/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/VaultViewController.h
+END
+DeviceMusicLibrary.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ohm1/!svn/ver/23/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/DeviceMusicLibrary.m
+END
+PlayerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ohm1/!svn/ver/20/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/PlayerViewController.h
+END
+forward_btn_down.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ohm1/!svn/ver/16/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/forward_btn_down.png
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/LICENSE
+END
+mock up_iphone.png
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ohm1/!svn/ver/16/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/mock%20up_iphone.png
+END
+shuffle_up.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ohm1/!svn/ver/16/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/shuffle_up.png
+END
+VaultViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ohm1/!svn/ver/24/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/VaultViewController.m
+END
+SearchViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/SearchViewController.xib
+END
+PlayerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ohm1/!svn/ver/20/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/PlayerViewController.m
+END
+back_up.png
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ohm1/!svn/ver/16/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/back_up.png
+END
+Album_artwork_filler.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ohm1/!svn/ver/16/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/Album_artwork_filler.png
+END
+repeat_down.png
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ohm1/!svn/ver/16/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/repeat_down.png
+END
+forward_up.png
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ohm1/!svn/ver/16/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/forward_up.png
+END
+SimulatorMusicLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ohm1/!svn/ver/17/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/SimulatorMusicLibrary.h
+END
+VaultAlbumCell.xib
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ohm1/!svn/ver/18/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/VaultAlbumCell.xib
+END
+Alpha_vault-pre-chop.png
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/Alpha_vault-pre-chop.png
+END
+SimulatorMusicLibrary.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ohm1/!svn/ver/23/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/SimulatorMusicLibrary.m
+END
+Mock_up.iphone.png
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ohm1/!svn/ver/28/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/Mock_up.iphone.png
+END
+VaultSongsTableViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/VaultSongsTableViewController.h
+END
+QueueViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ohm1/!svn/ver/18/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/QueueViewController.xib
+END
+TO DO
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/ohm1/!svn/ver/12/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/TO%20DO
+END
+VaultSongsTableViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ohm1/!svn/ver/4/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/VaultSongsTableViewController.m
+END
+QueueViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ohm1/!svn/ver/8/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/QueueViewController.h
+END
+repeat_btn_up.png
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ohm1/!svn/ver/16/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/repeat_btn_up.png
+END
+MusicQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ohm1/!svn/ver/12/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/MusicQueue.h
+END
+DeviceSong.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/ohm1/!svn/ver/8/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/DeviceSong.h
+END
+QueueViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ohm1/!svn/ver/13/ios/ohm_player/trunk/OhmPlayerNext/OhmPlayerNext/QueueViewController.m
+END

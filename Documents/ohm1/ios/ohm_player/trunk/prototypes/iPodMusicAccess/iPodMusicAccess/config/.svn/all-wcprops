@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ohm1/!svn/ver/193/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/config
+END
+product.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/config/product.xcconfig
+END
+release.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/config/release.xcconfig
+END
+product-debug.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/config/product-debug.xcconfig
+END
+debug.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/config/debug.xcconfig
+END
+base.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ohm1/!svn/ver/193/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/config/base.xcconfig
+END
+product-release.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/config/product-release.xcconfig
+END

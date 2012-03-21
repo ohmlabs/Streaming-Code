@@ -1,0 +1,10 @@
+//
+//  debug.xcconfig
+//
+
+
+#include "base.xcconfig"
+
+OTHER_CFLAGS = -DDEBUG=1
+GCC_OPTIMIZATION_LEVEL = 0
+COPY_PHASE_STRIP = NO

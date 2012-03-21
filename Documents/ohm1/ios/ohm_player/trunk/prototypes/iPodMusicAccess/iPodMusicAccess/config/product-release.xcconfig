@@ -1,0 +1,7 @@
+//
+//  product-release.xcconfig
+//
+
+
+#include "release.xcconfig"
+#include "product.xcconfig"

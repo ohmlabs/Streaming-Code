@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ohm1/!svn/ver/353/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/en.lproj
+END
+InfoPlist.strings
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/ohm1/!svn/ver/31/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/en.lproj/InfoPlist.strings
+END
+MainStoryboard.storyboard
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ohm1/!svn/ver/353/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/en.lproj/MainStoryboard.storyboard
+END
+ReadOnlyPlaylistHeaderView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/ohm1/!svn/ver/306/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/en.lproj/ReadOnlyPlaylistHeaderView.xib
+END
+OLTwitterServiceChannel.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ohm1/!svn/ver/107/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/en.lproj/OLTwitterServiceChannel.xib
+END
+OhmPlaylistHeaderView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ohm1/!svn/ver/306/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/en.lproj/OhmPlaylistHeaderView.xib
+END
+OLTwitterServiceYouTube.xib
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ohm1/!svn/ver/107/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/en.lproj/OLTwitterServiceYouTube.xib
+END

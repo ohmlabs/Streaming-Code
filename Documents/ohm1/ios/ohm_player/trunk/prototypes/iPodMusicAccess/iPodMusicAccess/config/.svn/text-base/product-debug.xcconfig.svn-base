@@ -1,0 +1,7 @@
+//
+//  product-debug.xcconfig
+//
+
+
+#include "debug.xcconfig"
+#include "product.xcconfig"

@@ -1,0 +1,30 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 Verdana;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww18560\viewh14440\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\ql\qnatural\pardirnatural
+
+\f0\fs36 \cf0 The index view used in the original Ohm Player is flawed. In particular, it's based on an image of a character index carefully crafted to ensure that the center of each glyph is centered at evenly spaced intervals.\
+\
+This has the following drawbacks:\
+\
+- It only works for English.\
+- It can't be used in landscape mode.\
+- It can't be used at all on an iPad (or Apple TV).\
+\
+To fix this problem, I'm going to attempt the following:\
+\
+For each [Unicode] character in a localized index, I'm going to create a UILabel with the character's glyph centered using UITextAligmentCenter. The set of these UILabels will be placed consecutively adjacent in a custom view. This should take care of horizontally centering and spacing glyphs at even intervals, as well as placing them on the same base line.\
+\
+Note: Apple's vertical indexes work well because its glyphs are displayed in evenly spaced vertical rows. Distinguishing glyphs from one another is as simple as determining which row the user has touched...\
+\
+--\
+\
+Note: UILabel seems to align the baseline by default.\
+\
+--\
+\
+ISSUE: should we allow the selected index to be persisted and/or in iCloud?\
+\
+13 AUG 2011\
+}

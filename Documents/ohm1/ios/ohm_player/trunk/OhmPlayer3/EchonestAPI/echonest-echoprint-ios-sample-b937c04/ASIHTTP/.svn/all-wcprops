@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASIHTTPRequest.m
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASINetworkQueue.h
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASICacheDelegate.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASIProgressDelegate.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASIAuthenticationDialog.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASINetworkQueue.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASIAuthenticationDialog.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASIFormDataRequest.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASIHTTPRequestDelegate.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/ohm1/!svn/ver/367/ios/ohm_player/trunk/OhmPlayer3/EchonestAPI/echonest-echoprint-ios-sample-b937c04/ASIHTTP/ASIDownloadCache.h
+END

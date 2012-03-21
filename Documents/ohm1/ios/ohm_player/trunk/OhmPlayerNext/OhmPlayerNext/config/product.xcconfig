@@ -1,0 +1,9 @@
+//
+//  product.xcconfig
+//
+//  Created by Reg on 1/25/11.
+
+
+GCC_PREFIX_HEADER = OhmPlayerNext_Prefix.pch
+INFOPLIST_FILE = OhmPlayerNext-Info.plist
+PRODUCT_NAME = OhmPlayerNext

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ohm1/!svn/ver/359/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/config
+END
+release.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ohm1/!svn/ver/267/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/config/release.xcconfig
+END
+ohmPlayer3-release.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ohm1/!svn/ver/247/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/config/ohmPlayer3-release.xcconfig
+END
+ohmPlayer4-release.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ohm1/!svn/ver/277/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/config/ohmPlayer4-release.xcconfig
+END
+ohmPlayer3.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ohm1/!svn/ver/247/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/config/ohmPlayer3.xcconfig
+END
+ohmPlayer4.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ohm1/!svn/ver/247/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/config/ohmPlayer4.xcconfig
+END
+debug.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ohm1/!svn/ver/83/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/config/debug.xcconfig
+END
+ohmPlayer3-debug.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ohm1/!svn/ver/247/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/config/ohmPlayer3-debug.xcconfig
+END
+ohmPlayer4-debug.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/ohm1/!svn/ver/277/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/config/ohmPlayer4-debug.xcconfig
+END
+base.xcconfig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ohm1/!svn/ver/359/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/config/base.xcconfig
+END

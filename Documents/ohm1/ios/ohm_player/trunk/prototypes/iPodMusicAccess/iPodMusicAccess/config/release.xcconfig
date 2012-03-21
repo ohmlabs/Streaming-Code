@@ -1,0 +1,10 @@
+//
+//  release.xcconfig
+//
+
+
+#include "base.xcconfig"
+
+OTHER_CFLAGS = -DNDEBUG -DNS_BLOCK_ASSERTIONS
+GCC_OPTIMIZATION_LEVEL = s
+COPY_PHASE_STRIP = YES

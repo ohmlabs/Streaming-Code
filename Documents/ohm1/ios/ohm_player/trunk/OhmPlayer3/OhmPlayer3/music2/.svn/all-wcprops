@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/ohm1/!svn/ver/365/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2
+END
+DeviceSong.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ohm1/!svn/ver/365/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/DeviceSong.m
+END
+DeviceArtist.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ohm1/!svn/ver/365/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/DeviceArtist.m
+END
+SimulatorMusicPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ohm1/!svn/ver/329/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/SimulatorMusicPlayer.h
+END
+MusicPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ohm1/!svn/ver/329/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/MusicPlayer.h
+END
+OhmTargetConditionals.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ohm1/!svn/ver/200/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/OhmTargetConditionals.h
+END
+MusicPlayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ohm1/!svn/ver/200/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/MusicPlayer.m
+END
+SimulatorMusicPlayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ohm1/!svn/ver/329/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/SimulatorMusicPlayer.m
+END
+SimulatorArtist.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ohm1/!svn/ver/200/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/SimulatorArtist.h
+END
+Artist.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ohm1/!svn/ver/358/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/Artist.h
+END
+SimulatorSong.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ohm1/!svn/ver/200/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/SimulatorSong.h
+END
+Song.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ohm1/!svn/ver/358/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/Song.h
+END
+SimulatorArtist.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/ohm1/!svn/ver/334/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/SimulatorArtist.m
+END
+Artist.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/ohm1/!svn/ver/364/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/Artist.m
+END
+SimulatorSong.m
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/ohm1/!svn/ver/200/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/SimulatorSong.m
+END
+Song.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/ohm1/!svn/ver/358/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/Song.m
+END
+DeviceAlbum.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ohm1/!svn/ver/363/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/DeviceAlbum.h
+END
+DevicePlaylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ohm1/!svn/ver/236/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/DevicePlaylist.h
+END
+DeviceAlbum.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ohm1/!svn/ver/365/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/DeviceAlbum.m
+END
+DeviceMusicLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ohm1/!svn/ver/358/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/DeviceMusicLibrary.h
+END
+DevicePlaylist.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ohm1/!svn/ver/350/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/DevicePlaylist.m
+END
+DeviceMusicLibrary.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ohm1/!svn/ver/358/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/DeviceMusicLibrary.m
+END
+SimulatorAlbum.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ohm1/!svn/ver/200/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/SimulatorAlbum.h
+END
+Album.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ohm1/!svn/ver/358/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/Album.h
+END
+Playlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ohm1/!svn/ver/350/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/Playlist.h
+END
+SimulatorPlaylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ohm1/!svn/ver/319/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/SimulatorPlaylist.h
+END
+DevicePersistentPlaylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ohm1/!svn/ver/314/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/DevicePersistentPlaylist.h
+END
+SimulatorMusicLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ohm1/!svn/ver/321/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/SimulatorMusicLibrary.h
+END
+SimulatorAlbum.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ohm1/!svn/ver/200/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/SimulatorAlbum.m
+END
+MusicLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ohm1/!svn/ver/359/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/MusicLibrary.h
+END
+Album.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/ohm1/!svn/ver/358/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/Album.m
+END
+Playlist.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/ohm1/!svn/ver/350/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/Playlist.m
+END
+SimulatorPlaylist.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ohm1/!svn/ver/245/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/SimulatorPlaylist.m
+END
+DevicePersistentPlaylist.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ohm1/!svn/ver/314/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/DevicePersistentPlaylist.m
+END
+SimulatorMusicLibrary.m
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/ohm1/!svn/ver/358/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/SimulatorMusicLibrary.m
+END
+MusicLibrary.m
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ohm1/!svn/ver/207/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/MusicLibrary.m
+END
+DeviceMusicPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ohm1/!svn/ver/242/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/DeviceMusicPlayer.h
+END
+DeviceMusicPlayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/ohm1/!svn/ver/329/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/DeviceMusicPlayer.m
+END
+SongCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/ohm1/!svn/ver/334/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/SongCollection.h
+END
+DeviceSong.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/ohm1/!svn/ver/200/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/DeviceSong.h
+END
+DeviceArtist.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/ohm1/!svn/ver/200/ios/ohm_player/trunk/OhmPlayer3/OhmPlayer3/music2/DeviceArtist.h
+END

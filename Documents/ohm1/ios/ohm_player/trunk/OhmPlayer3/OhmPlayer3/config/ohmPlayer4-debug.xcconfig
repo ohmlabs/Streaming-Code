@@ -1,0 +1,4 @@
+#include "debug.xcconfig"
+#include "ohmPlayer4.xcconfig"
+
+OTHER_CFLAGS = -DDEBUG=1 -DOHM_TARGET_4=1

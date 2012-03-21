@@ -1,0 +1,11 @@
+Subversion doesn't support the notion of named revisions so we track them here.
+
+You can check out a particular version/milestone of the project using:
+
+svn co -r<revision>
+
+==
+
+
+player 1-0-0-D-0	revision 198	01 OCT 2011
+

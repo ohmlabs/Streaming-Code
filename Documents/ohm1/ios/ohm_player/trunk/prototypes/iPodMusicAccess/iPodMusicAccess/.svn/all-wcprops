@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/ohm1/!svn/ver/195/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/main.m
+END
+NowPlayingViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/NowPlayingViewController.m
+END
+DeviceSong.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/DeviceSong.m
+END
+DeviceArtist.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/DeviceArtist.m
+END
+iPodMusicAccess-Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/iPodMusicAccess-Prefix.pch
+END
+MusicPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/MusicPlayer.h
+END
+SimulatorMusicPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/SimulatorMusicPlayer.h
+END
+AlbumsTableViewDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/AlbumsTableViewDataSource.h
+END
+OhmTargetConditionals.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/OhmTargetConditionals.h
+END
+MusicPlayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/MusicPlayer.m
+END
+SimulatorMusicPlayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/ohm1/!svn/ver/195/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/SimulatorMusicPlayer.m
+END
+AlbumsTableViewDataSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/AlbumsTableViewDataSource.m
+END
+Artist.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/Artist.h
+END
+SimulatorArtist.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/SimulatorArtist.h
+END
+SimulatorSong.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/SimulatorSong.h
+END
+Song.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/Song.h
+END
+Artist.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/Artist.m
+END
+SimulatorArtist.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ohm1/!svn/ver/195/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/SimulatorArtist.m
+END
+SimulatorSong.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/SimulatorSong.m
+END
+Song.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/Song.m
+END
+DeviceAlbum.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/DeviceAlbum.h
+END
+DeviceAlbum.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/DeviceAlbum.m
+END
+DeviceMusicLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/DeviceMusicLibrary.h
+END
+GalleryListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/GalleryListViewController.h
+END
+DeviceMusicLibrary.m
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/ohm1/!svn/ver/195/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/DeviceMusicLibrary.m
+END
+DeviceMutablePlaylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ohm1/!svn/ver/195/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/DeviceMutablePlaylist.h
+END
+GalleryListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/GalleryListViewController.m
+END
+DeviceMutablePlaylist.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ohm1/!svn/ver/195/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/DeviceMutablePlaylist.m
+END
+Album.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/Album.h
+END
+SimulatorAlbum.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/SimulatorAlbum.h
+END
+README.rtf
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/README.rtf
+END
+Playlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/Playlist.h
+END
+MusicLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/MusicLibrary.h
+END
+Album.m
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/Album.m
+END
+SimulatorAlbum.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/SimulatorAlbum.m
+END
+SimulatorMusicLibrary.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/SimulatorMusicLibrary.h
+END
+Playlist.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/Playlist.m
+END
+ArtistsTableViewDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/ArtistsTableViewDataSource.h
+END
+SongsTableViewDataSource.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/SongsTableViewDataSource.h
+END
+MusicLibrary.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/MusicLibrary.m
+END
+SimulatorMusicLibrary.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/ohm1/!svn/ver/195/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/SimulatorMusicLibrary.m
+END
+MutablePlaylist.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/MutablePlaylist.h
+END
+AppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/AppDelegate.h
+END
+iPodMusicAccess-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/iPodMusicAccess-Info.plist
+END
+ArtistsTableViewDataSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/ArtistsTableViewDataSource.m
+END
+SongsTableViewDataSource.m
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/SongsTableViewDataSource.m
+END
+DeviceMusicPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/DeviceMusicPlayer.h
+END
+MutablePlaylist.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/MutablePlaylist.m
+END
+AppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/AppDelegate.m
+END
+DeviceMusicPlayer.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/ohm1/!svn/ver/195/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/DeviceMusicPlayer.m
+END
+SongCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/SongCollection.h
+END
+NowPlayingViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/ohm1/!svn/ver/192/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/NowPlayingViewController.h
+END
+DeviceSong.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/DeviceSong.h
+END
+DeviceArtist.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/ohm1/!svn/ver/194/ios/ohm_player/trunk/prototypes/iPodMusicAccess/iPodMusicAccess/DeviceArtist.h
+END

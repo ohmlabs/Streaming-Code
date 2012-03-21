@@ -1,0 +1,11 @@
+//
+// Prefix header for all source files of the 'Kiip Example' target in the 'Kiip Example' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+#define KP_APP_KEY    @"_my_app_key_"
+#define KP_APP_SECRET @"_my_app_secret_"

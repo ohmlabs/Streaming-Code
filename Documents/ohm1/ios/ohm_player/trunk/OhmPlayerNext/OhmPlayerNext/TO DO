@@ -1,0 +1,34 @@
+(These are notes to myself. They may not make sense to you. Better, more formal docs are coming :-).
+
+Player:
+
+just graphics for now...
+
+Add the record.
+Add the buttons (make them pressable/toggle for now...)
+Add labels for artist, album, and title.... (hard code).
+Add tone arm - also doesn't move. (angular dragging? not yet.)
+
+
+Vault:
+
+cosmetics and behaviors need refinement. For example, when we start the scroll,
+we may want to fade out the albums and show them again when we stop...
+but that's cosmetic.
+
+Q: Should we always scroll back to the top song when switching between albums, or 
+should the app remember where the user was last scrolled to for each album?
+
+
+Queue:
+
+just show songs added (for now - no frills) - queue is always paused (for now).
+
+==
+
+ISSUE: The collated view is hard coded. We should use Apple's implementation...
+
+===
+We should listen to the music library object in case the user updates their library
+while the app is runnning...
+

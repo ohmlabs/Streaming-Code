@@ -1,0 +1,4 @@
+#include "release.xcconfig"
+#include "ohmPlayer4.xcconfig"
+
+OTHER_CFLAGS = -DNDEBUG=1 -DNS_BLOCK_ASSERTIONS -DOHM_TARGET_4=1
