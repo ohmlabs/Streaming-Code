@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/milenage
+END
+milenage.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/milenage/milenage.c
+END
+milenage.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/milenage/milenage.h
+END
+rijndael.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/milenage/rijndael.c
+END
+rijndael.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/milenage/rijndael.h
+END

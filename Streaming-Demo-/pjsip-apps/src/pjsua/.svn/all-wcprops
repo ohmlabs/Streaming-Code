@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/3830/pjproject/branches/1.x/pjsip-apps/src/pjsua
+END
+main_rtems.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/pjsua/main_rtems.c
+END
+pjsua_app.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/3830/pjproject/branches/1.x/pjsip-apps/src/pjsua/pjsua_app.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/pjsua/main.c
+END
+gui.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/pjsua/gui.h
+END

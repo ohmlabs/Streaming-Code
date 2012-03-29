@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/crypto/replay
+END
+rdbx.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/crypto/replay/rdbx.c
+END
+ut_sim.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/crypto/replay/ut_sim.c
+END
+rdb.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/crypto/replay/rdb.c
+END

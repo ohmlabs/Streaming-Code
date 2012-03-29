@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/3888/pjproject/branches/1.x/pjsip-apps/src/python
+END
+_pjsua.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/python/_pjsua.c
+END
+helper.mak
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/python/helper.mak
+END
+_pjsua.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/python/_pjsua.h
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/3888/pjproject/branches/1.x/pjsip-apps/src/python/setup.py
+END
+pjsua.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/python/pjsua.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/python/Makefile
+END
+setup-vc.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/python/setup-vc.py
+END
+_pjsua.def
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/python/_pjsua.def
+END

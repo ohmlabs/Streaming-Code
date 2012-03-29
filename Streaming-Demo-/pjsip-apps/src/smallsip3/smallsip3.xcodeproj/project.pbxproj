@@ -1,0 +1,605 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F578CFE1148D71A200A09ADE /* libg7221codec-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFCF148D71A200A09ADE /* libg7221codec-arm-apple-darwin10.a */; };
+		F578CFE2148D71A200A09ADE /* libilbccodec-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFD0148D71A200A09ADE /* libilbccodec-arm-apple-darwin10.a */; };
+		F578CFE3148D71A200A09ADE /* libmilenage-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFD1148D71A200A09ADE /* libmilenage-arm-apple-darwin10.a */; };
+		F578CFE4148D71A200A09ADE /* libpjsdp-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFD2148D71A200A09ADE /* libpjsdp-arm-apple-darwin10.a */; };
+		F578CFE5148D71A200A09ADE /* libspeex-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFD3148D71A200A09ADE /* libspeex-arm-apple-darwin10.a */; };
+		F578CFE6148D71A200A09ADE /* libsrtp-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFD4148D71A200A09ADE /* libsrtp-arm-apple-darwin10.a */; };
+		F578CFE7148D71A200A09ADE /* libgsmcodec-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFD5148D71A200A09ADE /* libgsmcodec-arm-apple-darwin10.a */; };
+		F578CFE8148D71A200A09ADE /* libpj-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFD6148D71A200A09ADE /* libpj-arm-apple-darwin10.a */; };
+		F578CFE9148D71A200A09ADE /* libpjlib-util-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFD7148D71A200A09ADE /* libpjlib-util-arm-apple-darwin10.a */; };
+		F578CFEA148D71A200A09ADE /* libpjmedia-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFD8148D71A200A09ADE /* libpjmedia-arm-apple-darwin10.a */; };
+		F578CFEB148D71A200A09ADE /* libpjmedia-audiodev-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFD9148D71A200A09ADE /* libpjmedia-audiodev-arm-apple-darwin10.a */; };
+		F578CFEC148D71A200A09ADE /* libpjmedia-codec-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFDA148D71A200A09ADE /* libpjmedia-codec-arm-apple-darwin10.a */; };
+		F578CFED148D71A200A09ADE /* libpjnath-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFDB148D71A200A09ADE /* libpjnath-arm-apple-darwin10.a */; };
+		F578CFEE148D71A200A09ADE /* libpjsip-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFDC148D71A200A09ADE /* libpjsip-arm-apple-darwin10.a */; };
+		F578CFEF148D71A200A09ADE /* libpjsip-simple-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFDD148D71A200A09ADE /* libpjsip-simple-arm-apple-darwin10.a */; };
+		F578CFF0148D71A200A09ADE /* libpjsip-ua-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFDE148D71A200A09ADE /* libpjsip-ua-arm-apple-darwin10.a */; };
+		F578CFF1148D71A200A09ADE /* libpjsua-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFDF148D71A200A09ADE /* libpjsua-arm-apple-darwin10.a */; };
+		F578CFF2148D71A200A09ADE /* libresample-arm-apple-darwin10.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F578CFE0148D71A200A09ADE /* libresample-arm-apple-darwin10.a */; };
+		F59A79A414858DEB00BE1270 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F59A79A314858DEB00BE1270 /* UIKit.framework */; };
+		F59A79A614858DEB00BE1270 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F59A79A514858DEB00BE1270 /* Foundation.framework */; };
+		F59A79A814858DEB00BE1270 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F59A79A714858DEB00BE1270 /* CoreGraphics.framework */; };
+		F59A79AE14858DEB00BE1270 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F59A79AC14858DEB00BE1270 /* InfoPlist.strings */; };
+		F59A79B014858DEB00BE1270 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F59A79AF14858DEB00BE1270 /* main.m */; };
+		F59A79B414858DEB00BE1270 /* ictestAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F59A79B314858DEB00BE1270 /* ictestAppDelegate.m */; };
+		F59A79B714858DEB00BE1270 /* ictestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F59A79B614858DEB00BE1270 /* ictestViewController.m */; };
+		F59A79BA14858DEB00BE1270 /* ictestViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = F59A79B814858DEB00BE1270 /* ictestViewController.xib */; };
+		F59A79C214858DEB00BE1270 /* SenTestingKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F59A79C114858DEB00BE1270 /* SenTestingKit.framework */; };
+		F59A79C314858DEB00BE1270 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F59A79A314858DEB00BE1270 /* UIKit.framework */; };
+		F59A79C414858DEB00BE1270 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F59A79A514858DEB00BE1270 /* Foundation.framework */; };
+		F59A79CC14858DEB00BE1270 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F59A79CA14858DEB00BE1270 /* InfoPlist.strings */; };
+		F59A79CF14858DEB00BE1270 /* smallsip3Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = F59A79CE14858DEB00BE1270 /* smallsip3Tests.m */; };
+		F59A7A0414859A0400BE1270 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F59A7A0314859A0400BE1270 /* AudioToolbox.framework */; };
+		F59A7A0614859A0C00BE1270 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F59A7A0514859A0C00BE1270 /* CFNetwork.framework */; };
+		F5BFA2731490440000AF2496 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F5BFA2721490440000AF2496 /* AVFoundation.framework */; };
+		F5BFA275149050B000AF2496 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F5BFA274149050B000AF2496 /* MediaPlayer.framework */; };
+		F5BFA2771490604D00AF2496 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F5BFA2761490604D00AF2496 /* CoreMedia.framework */; };
+		F5E62E05148AA555005C7B52 /* 03GoSlowly_MONO.wav in Resources */ = {isa = PBXBuildFile; fileRef = F5E62E04148AA555005C7B52 /* 03GoSlowly_MONO.wav */; };
+		F5E62E0D148AB054005C7B52 /* 03GoSlowly.wav in Resources */ = {isa = PBXBuildFile; fileRef = F5E62E0C148AB054005C7B52 /* 03GoSlowly.wav */; };
+		F5E62E0F148AB3AA005C7B52 /* 03GoSlowly.aiff in Resources */ = {isa = PBXBuildFile; fileRef = F5E62E0E148AB3AA005C7B52 /* 03GoSlowly.aiff */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		F59A79C514858DEB00BE1270 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = F59A799614858DEB00BE1270 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = F59A799E14858DEB00BE1270;
+			remoteInfo = smallsip3;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		F578CFCF148D71A200A09ADE /* libg7221codec-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libg7221codec-arm-apple-darwin10.a"; path = "../../../third_party/lib/libg7221codec-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFD0148D71A200A09ADE /* libilbccodec-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libilbccodec-arm-apple-darwin10.a"; path = "../../../third_party/lib/libilbccodec-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFD1148D71A200A09ADE /* libmilenage-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libmilenage-arm-apple-darwin10.a"; path = "../../../third_party/lib/libmilenage-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFD2148D71A200A09ADE /* libpjsdp-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjsdp-arm-apple-darwin10.a"; path = "../../../pjmedia/lib/libpjsdp-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFD3148D71A200A09ADE /* libspeex-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libspeex-arm-apple-darwin10.a"; path = "../../../third_party/lib/libspeex-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFD4148D71A200A09ADE /* libsrtp-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libsrtp-arm-apple-darwin10.a"; path = "../../../third_party/lib/libsrtp-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFD5148D71A200A09ADE /* libgsmcodec-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libgsmcodec-arm-apple-darwin10.a"; path = "../../../third_party/lib/libgsmcodec-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFD6148D71A200A09ADE /* libpj-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpj-arm-apple-darwin10.a"; path = "../../../pjlib/lib/libpj-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFD7148D71A200A09ADE /* libpjlib-util-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjlib-util-arm-apple-darwin10.a"; path = "../../../pjlib-util/lib/libpjlib-util-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFD8148D71A200A09ADE /* libpjmedia-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjmedia-arm-apple-darwin10.a"; path = "../../../pjmedia/lib/libpjmedia-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFD9148D71A200A09ADE /* libpjmedia-audiodev-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjmedia-audiodev-arm-apple-darwin10.a"; path = "../../../pjmedia/lib/libpjmedia-audiodev-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFDA148D71A200A09ADE /* libpjmedia-codec-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjmedia-codec-arm-apple-darwin10.a"; path = "../../../pjmedia/lib/libpjmedia-codec-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFDB148D71A200A09ADE /* libpjnath-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjnath-arm-apple-darwin10.a"; path = "../../../pjnath/lib/libpjnath-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFDC148D71A200A09ADE /* libpjsip-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjsip-arm-apple-darwin10.a"; path = "../../../pjsip/lib/libpjsip-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFDD148D71A200A09ADE /* libpjsip-simple-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjsip-simple-arm-apple-darwin10.a"; path = "../../../pjsip/lib/libpjsip-simple-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFDE148D71A200A09ADE /* libpjsip-ua-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjsip-ua-arm-apple-darwin10.a"; path = "../../../pjsip/lib/libpjsip-ua-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFDF148D71A200A09ADE /* libpjsua-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libpjsua-arm-apple-darwin10.a"; path = "../../../pjsip/lib/libpjsua-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F578CFE0148D71A200A09ADE /* libresample-arm-apple-darwin10.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = "libresample-arm-apple-darwin10.a"; path = "../../../third_party/lib/libresample-arm-apple-darwin10.a"; sourceTree = "<group>"; };
+		F59A799F14858DEB00BE1270 /* smallsip3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = smallsip3.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F59A79A314858DEB00BE1270 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		F59A79A514858DEB00BE1270 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		F59A79A714858DEB00BE1270 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		F59A79AB14858DEB00BE1270 /* smallsip3-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "smallsip3-Info.plist"; sourceTree = "<group>"; };
+		F59A79AD14858DEB00BE1270 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F59A79AF14858DEB00BE1270 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F59A79B114858DEB00BE1270 /* smallsip3-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "smallsip3-Prefix.pch"; sourceTree = "<group>"; };
+		F59A79B214858DEB00BE1270 /* ictestAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ictestAppDelegate.h; sourceTree = "<group>"; };
+		F59A79B314858DEB00BE1270 /* ictestAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ictestAppDelegate.m; sourceTree = "<group>"; };
+		F59A79B514858DEB00BE1270 /* ictestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ictestViewController.h; sourceTree = "<group>"; };
+		F59A79B614858DEB00BE1270 /* ictestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ictestViewController.m; sourceTree = "<group>"; };
+		F59A79B914858DEB00BE1270 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ictestViewController.xib; sourceTree = "<group>"; };
+		F59A79C014858DEB00BE1270 /* smallsip3Tests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = smallsip3Tests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F59A79C114858DEB00BE1270 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
+		F59A79C914858DEB00BE1270 /* smallsip3Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "smallsip3Tests-Info.plist"; sourceTree = "<group>"; };
+		F59A79CB14858DEB00BE1270 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		F59A79CD14858DEB00BE1270 /* smallsip3Tests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = smallsip3Tests.h; sourceTree = "<group>"; };
+		F59A79CE14858DEB00BE1270 /* smallsip3Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = smallsip3Tests.m; sourceTree = "<group>"; };
+		F59A7A0314859A0400BE1270 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		F59A7A0514859A0C00BE1270 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+		F5BFA2721490440000AF2496 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		F5BFA274149050B000AF2496 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		F5BFA2761490604D00AF2496 /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
+		F5E62E04148AA555005C7B52 /* 03GoSlowly_MONO.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 03GoSlowly_MONO.wav; sourceTree = "<group>"; };
+		F5E62E0C148AB054005C7B52 /* 03GoSlowly.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = 03GoSlowly.wav; sourceTree = "<group>"; };
+		F5E62E0E148AB3AA005C7B52 /* 03GoSlowly.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = 03GoSlowly.aiff; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F59A799C14858DEB00BE1270 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F59A79A414858DEB00BE1270 /* UIKit.framework in Frameworks */,
+				F59A79A614858DEB00BE1270 /* Foundation.framework in Frameworks */,
+				F59A79A814858DEB00BE1270 /* CoreGraphics.framework in Frameworks */,
+				F59A7A0414859A0400BE1270 /* AudioToolbox.framework in Frameworks */,
+				F59A7A0614859A0C00BE1270 /* CFNetwork.framework in Frameworks */,
+				F578CFE1148D71A200A09ADE /* libg7221codec-arm-apple-darwin10.a in Frameworks */,
+				F578CFE2148D71A200A09ADE /* libilbccodec-arm-apple-darwin10.a in Frameworks */,
+				F578CFE3148D71A200A09ADE /* libmilenage-arm-apple-darwin10.a in Frameworks */,
+				F578CFE4148D71A200A09ADE /* libpjsdp-arm-apple-darwin10.a in Frameworks */,
+				F578CFE5148D71A200A09ADE /* libspeex-arm-apple-darwin10.a in Frameworks */,
+				F578CFE6148D71A200A09ADE /* libsrtp-arm-apple-darwin10.a in Frameworks */,
+				F578CFE7148D71A200A09ADE /* libgsmcodec-arm-apple-darwin10.a in Frameworks */,
+				F578CFE8148D71A200A09ADE /* libpj-arm-apple-darwin10.a in Frameworks */,
+				F578CFE9148D71A200A09ADE /* libpjlib-util-arm-apple-darwin10.a in Frameworks */,
+				F578CFEA148D71A200A09ADE /* libpjmedia-arm-apple-darwin10.a in Frameworks */,
+				F578CFEB148D71A200A09ADE /* libpjmedia-audiodev-arm-apple-darwin10.a in Frameworks */,
+				F578CFEC148D71A200A09ADE /* libpjmedia-codec-arm-apple-darwin10.a in Frameworks */,
+				F578CFED148D71A200A09ADE /* libpjnath-arm-apple-darwin10.a in Frameworks */,
+				F578CFEE148D71A200A09ADE /* libpjsip-arm-apple-darwin10.a in Frameworks */,
+				F578CFEF148D71A200A09ADE /* libpjsip-simple-arm-apple-darwin10.a in Frameworks */,
+				F578CFF0148D71A200A09ADE /* libpjsip-ua-arm-apple-darwin10.a in Frameworks */,
+				F578CFF1148D71A200A09ADE /* libpjsua-arm-apple-darwin10.a in Frameworks */,
+				F578CFF2148D71A200A09ADE /* libresample-arm-apple-darwin10.a in Frameworks */,
+				F5BFA2731490440000AF2496 /* AVFoundation.framework in Frameworks */,
+				F5BFA275149050B000AF2496 /* MediaPlayer.framework in Frameworks */,
+				F5BFA2771490604D00AF2496 /* CoreMedia.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F59A79BC14858DEB00BE1270 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F59A79C214858DEB00BE1270 /* SenTestingKit.framework in Frameworks */,
+				F59A79C314858DEB00BE1270 /* UIKit.framework in Frameworks */,
+				F59A79C414858DEB00BE1270 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F59A799414858DEB00BE1270 = {
+			isa = PBXGroup;
+			children = (
+				F59A79A914858DEB00BE1270 /* smallsip3 */,
+				F59A79C714858DEB00BE1270 /* smallsip3Tests */,
+				F59A79A214858DEB00BE1270 /* Frameworks */,
+				F59A79A014858DEB00BE1270 /* Products */,
+				F59A79D814858E3300BE1270 /* Library */,
+			);
+			sourceTree = "<group>";
+		};
+		F59A79A014858DEB00BE1270 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F59A799F14858DEB00BE1270 /* smallsip3.app */,
+				F59A79C014858DEB00BE1270 /* smallsip3Tests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F59A79A214858DEB00BE1270 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F5BFA2761490604D00AF2496 /* CoreMedia.framework */,
+				F5BFA274149050B000AF2496 /* MediaPlayer.framework */,
+				F5BFA2721490440000AF2496 /* AVFoundation.framework */,
+				F59A7A0514859A0C00BE1270 /* CFNetwork.framework */,
+				F59A7A0314859A0400BE1270 /* AudioToolbox.framework */,
+				F59A79A314858DEB00BE1270 /* UIKit.framework */,
+				F59A79A514858DEB00BE1270 /* Foundation.framework */,
+				F59A79A714858DEB00BE1270 /* CoreGraphics.framework */,
+				F59A79C114858DEB00BE1270 /* SenTestingKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		F59A79A914858DEB00BE1270 /* smallsip3 */ = {
+			isa = PBXGroup;
+			children = (
+				F59A79B214858DEB00BE1270 /* ictestAppDelegate.h */,
+				F59A79B314858DEB00BE1270 /* ictestAppDelegate.m */,
+				F59A79B514858DEB00BE1270 /* ictestViewController.h */,
+				F59A79B614858DEB00BE1270 /* ictestViewController.m */,
+				F59A79B814858DEB00BE1270 /* ictestViewController.xib */,
+				F59A79AA14858DEB00BE1270 /* Supporting Files */,
+			);
+			path = smallsip3;
+			sourceTree = "<group>";
+		};
+		F59A79AA14858DEB00BE1270 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F5E62E0E148AB3AA005C7B52 /* 03GoSlowly.aiff */,
+				F5E62E0C148AB054005C7B52 /* 03GoSlowly.wav */,
+				F5E62E04148AA555005C7B52 /* 03GoSlowly_MONO.wav */,
+				F59A79AB14858DEB00BE1270 /* smallsip3-Info.plist */,
+				F59A79AC14858DEB00BE1270 /* InfoPlist.strings */,
+				F59A79AF14858DEB00BE1270 /* main.m */,
+				F59A79B114858DEB00BE1270 /* smallsip3-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F59A79C714858DEB00BE1270 /* smallsip3Tests */ = {
+			isa = PBXGroup;
+			children = (
+				F59A79CD14858DEB00BE1270 /* smallsip3Tests.h */,
+				F59A79CE14858DEB00BE1270 /* smallsip3Tests.m */,
+				F59A79C814858DEB00BE1270 /* Supporting Files */,
+			);
+			path = smallsip3Tests;
+			sourceTree = "<group>";
+		};
+		F59A79C814858DEB00BE1270 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F59A79C914858DEB00BE1270 /* smallsip3Tests-Info.plist */,
+				F59A79CA14858DEB00BE1270 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F59A79D814858E3300BE1270 /* Library */ = {
+			isa = PBXGroup;
+			children = (
+				F578CFCF148D71A200A09ADE /* libg7221codec-arm-apple-darwin10.a */,
+				F578CFD0148D71A200A09ADE /* libilbccodec-arm-apple-darwin10.a */,
+				F578CFD1148D71A200A09ADE /* libmilenage-arm-apple-darwin10.a */,
+				F578CFD2148D71A200A09ADE /* libpjsdp-arm-apple-darwin10.a */,
+				F578CFD3148D71A200A09ADE /* libspeex-arm-apple-darwin10.a */,
+				F578CFD4148D71A200A09ADE /* libsrtp-arm-apple-darwin10.a */,
+				F578CFD5148D71A200A09ADE /* libgsmcodec-arm-apple-darwin10.a */,
+				F578CFD6148D71A200A09ADE /* libpj-arm-apple-darwin10.a */,
+				F578CFD7148D71A200A09ADE /* libpjlib-util-arm-apple-darwin10.a */,
+				F578CFD8148D71A200A09ADE /* libpjmedia-arm-apple-darwin10.a */,
+				F578CFD9148D71A200A09ADE /* libpjmedia-audiodev-arm-apple-darwin10.a */,
+				F578CFDA148D71A200A09ADE /* libpjmedia-codec-arm-apple-darwin10.a */,
+				F578CFDB148D71A200A09ADE /* libpjnath-arm-apple-darwin10.a */,
+				F578CFDC148D71A200A09ADE /* libpjsip-arm-apple-darwin10.a */,
+				F578CFDD148D71A200A09ADE /* libpjsip-simple-arm-apple-darwin10.a */,
+				F578CFDE148D71A200A09ADE /* libpjsip-ua-arm-apple-darwin10.a */,
+				F578CFDF148D71A200A09ADE /* libpjsua-arm-apple-darwin10.a */,
+				F578CFE0148D71A200A09ADE /* libresample-arm-apple-darwin10.a */,
+			);
+			name = Library;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F59A799E14858DEB00BE1270 /* smallsip3 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F59A79D214858DEB00BE1270 /* Build configuration list for PBXNativeTarget "smallsip3" */;
+			buildPhases = (
+				F59A799B14858DEB00BE1270 /* Sources */,
+				F59A799C14858DEB00BE1270 /* Frameworks */,
+				F59A799D14858DEB00BE1270 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = smallsip3;
+			productName = smallsip3;
+			productReference = F59A799F14858DEB00BE1270 /* smallsip3.app */;
+			productType = "com.apple.product-type.application";
+		};
+		F59A79BF14858DEB00BE1270 /* smallsip3Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F59A79D514858DEB00BE1270 /* Build configuration list for PBXNativeTarget "smallsip3Tests" */;
+			buildPhases = (
+				F59A79BB14858DEB00BE1270 /* Sources */,
+				F59A79BC14858DEB00BE1270 /* Frameworks */,
+				F59A79BD14858DEB00BE1270 /* Resources */,
+				F59A79BE14858DEB00BE1270 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				F59A79C614858DEB00BE1270 /* PBXTargetDependency */,
+			);
+			name = smallsip3Tests;
+			productName = smallsip3Tests;
+			productReference = F59A79C014858DEB00BE1270 /* smallsip3Tests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F59A799614858DEB00BE1270 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Cognizant Technology Solutions";
+			};
+			buildConfigurationList = F59A799914858DEB00BE1270 /* Build configuration list for PBXProject "smallsip3" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = F59A799414858DEB00BE1270;
+			productRefGroup = F59A79A014858DEB00BE1270 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F59A799E14858DEB00BE1270 /* smallsip3 */,
+				F59A79BF14858DEB00BE1270 /* smallsip3Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F59A799D14858DEB00BE1270 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F59A79AE14858DEB00BE1270 /* InfoPlist.strings in Resources */,
+				F59A79BA14858DEB00BE1270 /* ictestViewController.xib in Resources */,
+				F5E62E05148AA555005C7B52 /* 03GoSlowly_MONO.wav in Resources */,
+				F5E62E0D148AB054005C7B52 /* 03GoSlowly.wav in Resources */,
+				F5E62E0F148AB3AA005C7B52 /* 03GoSlowly.aiff in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F59A79BD14858DEB00BE1270 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F59A79CC14858DEB00BE1270 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		F59A79BE14858DEB00BE1270 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F59A799B14858DEB00BE1270 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F59A79B014858DEB00BE1270 /* main.m in Sources */,
+				F59A79B414858DEB00BE1270 /* ictestAppDelegate.m in Sources */,
+				F59A79B714858DEB00BE1270 /* ictestViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F59A79BB14858DEB00BE1270 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F59A79CF14858DEB00BE1270 /* smallsip3Tests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		F59A79C614858DEB00BE1270 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = F59A799E14858DEB00BE1270 /* smallsip3 */;
+			targetProxy = F59A79C514858DEB00BE1270 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		F59A79AC14858DEB00BE1270 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F59A79AD14858DEB00BE1270 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		F59A79B814858DEB00BE1270 /* ictestViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F59A79B914858DEB00BE1270 /* en */,
+			);
+			name = ictestViewController.xib;
+			sourceTree = "<group>";
+		};
+		F59A79CA14858DEB00BE1270 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F59A79CB14858DEB00BE1270 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F59A79D014858DEB00BE1270 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		F59A79D114858DEB00BE1270 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F59A79D314858DEB00BE1270 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "smallsip3/smallsip3-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = "PJ_AUTOCONF=1";
+				HEADER_SEARCH_PATHS = (
+					../../../pjsip/include,
+					../../../pjlib/include,
+					"../../../pjlib-util/include",
+					../../../pjnath/include,
+					../../../pjmedia/include,
+				);
+				INFOPLIST_FILE = "smallsip3/smallsip3-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../../third_party/lib\"",
+					"\"$(SRCROOT)/../../../pjmedia/lib\"",
+					"\"$(SRCROOT)/../../../pjlib/lib\"",
+					"\"$(SRCROOT)/../../../pjlib-util/lib\"",
+					"\"$(SRCROOT)/../../../pjnath/lib\"",
+					"\"$(SRCROOT)/../../../pjsip/lib\"",
+					"\"$(SRCROOT)/../../../../../../../pjproject_ios/third_party/lib\"",
+					"\"$(SRCROOT)/../../../../../../../pjproject_ios/pjmedia/lib\"",
+					"\"$(SRCROOT)/../../../../../../../pjproject_ios/pjlib/lib\"",
+					"\"$(SRCROOT)/../../../../../../../pjproject_ios/pjlib-util/lib\"",
+					"\"$(SRCROOT)/../../../../../../../pjproject_ios/pjnath/lib\"",
+					"\"$(SRCROOT)/../../../../../../../pjproject_ios/pjsip/lib\"",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		F59A79D414858DEB00BE1270 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "smallsip3/smallsip3-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = "PJ_AUTOCONF=1";
+				HEADER_SEARCH_PATHS = (
+					../../../pjsip/include,
+					../../../pjlib/include,
+					"../../../pjlib-util/include",
+					../../../pjnath/include,
+					../../../pjmedia/include,
+				);
+				INFOPLIST_FILE = "smallsip3/smallsip3-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../../../third_party/lib\"",
+					"\"$(SRCROOT)/../../../pjmedia/lib\"",
+					"\"$(SRCROOT)/../../../pjlib/lib\"",
+					"\"$(SRCROOT)/../../../pjlib-util/lib\"",
+					"\"$(SRCROOT)/../../../pjnath/lib\"",
+					"\"$(SRCROOT)/../../../pjsip/lib\"",
+					"\"$(SRCROOT)/../../../../../../../pjproject_ios/third_party/lib\"",
+					"\"$(SRCROOT)/../../../../../../../pjproject_ios/pjmedia/lib\"",
+					"\"$(SRCROOT)/../../../../../../../pjproject_ios/pjlib/lib\"",
+					"\"$(SRCROOT)/../../../../../../../pjproject_ios/pjlib-util/lib\"",
+					"\"$(SRCROOT)/../../../../../../../pjproject_ios/pjnath/lib\"",
+					"\"$(SRCROOT)/../../../../../../../pjproject_ios/pjsip/lib\"",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		F59A79D614858DEB00BE1270 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/smallsip3.app/smallsip3";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "smallsip3/smallsip3-Prefix.pch";
+				INFOPLIST_FILE = "smallsip3Tests/smallsip3Tests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		F59A79D714858DEB00BE1270 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/smallsip3.app/smallsip3";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "smallsip3/smallsip3-Prefix.pch";
+				INFOPLIST_FILE = "smallsip3Tests/smallsip3Tests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F59A799914858DEB00BE1270 /* Build configuration list for PBXProject "smallsip3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F59A79D014858DEB00BE1270 /* Debug */,
+				F59A79D114858DEB00BE1270 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F59A79D214858DEB00BE1270 /* Build configuration list for PBXNativeTarget "smallsip3" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F59A79D314858DEB00BE1270 /* Debug */,
+				F59A79D414858DEB00BE1270 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F59A79D514858DEB00BE1270 /* Build configuration list for PBXNativeTarget "smallsip3Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F59A79D614858DEB00BE1270 /* Debug */,
+				F59A79D714858DEB00BE1270 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F59A799614858DEB00BE1270 /* Project object */;
+}

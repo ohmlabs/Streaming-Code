@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/repos/!svn/ver/3677/pjproject/branches/1.x/pjlib-util/build
+END
+pjlib_util.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib-util/build/pjlib_util.vcproj
+END
+os-rtems.mak
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib-util/build/os-rtems.mak
+END
+pjlib_util_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib-util/build/pjlib_util_test.dsp
+END
+pjlib_util.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib-util/build/pjlib_util.dsp
+END
+os-auto.mak.in
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib-util/build/os-auto.mak.in
+END
+pjlib_util.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib-util/build/pjlib_util.dsw
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/3677/pjproject/branches/1.x/pjlib-util/build/Makefile
+END
+pjlib_util_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib-util/build/pjlib_util_test.vcproj
+END

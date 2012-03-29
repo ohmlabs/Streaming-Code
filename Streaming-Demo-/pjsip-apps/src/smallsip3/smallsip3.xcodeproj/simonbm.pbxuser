@@ -1,0 +1,91 @@
+// !$*UTF8*$!
+{
+	F59A799614858DEB00BE1270 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = F5B34A6814F4A9E200382382 /* smallsip3 */;
+		activeTarget = F59A799E14858DEB00BE1270 /* smallsip3 */;
+		codeSenseManager = F5B34A8714F4A9E700382382 /* Code sense */;
+		executables = (
+			F5B34A6814F4A9E200382382 /* smallsip3 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					356,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 351578594;
+			PBXWorkspaceStateSaveDate = 351578594;
+		};
+		sourceControlManager = F5B34A8614F4A9E700382382 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	F59A799E14858DEB00BE1270 /* smallsip3 */ = {
+		activeExec = 0;
+		executables = (
+			F5B34A6814F4A9E200382382 /* smallsip3 */,
+		);
+	};
+	F59A79BF14858DEB00BE1270 /* smallsip3Tests */ = {
+		activeExec = 0;
+	};
+	F5B34A6814F4A9E200382382 /* smallsip3 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = smallsip3;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	F5B34A8614F4A9E700382382 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	F5B34A8714F4A9E700382382 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

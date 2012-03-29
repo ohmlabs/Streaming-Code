@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/!svn/ver/3817/pjproject/branches/1.x/pjmedia/include
+END
+pjmedia.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/include/pjmedia.h
+END
+pjmedia_audiodev.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjmedia/include/pjmedia_audiodev.h
+END
+pjmedia-codec.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/3816/pjproject/branches/1.x/pjmedia/include/pjmedia-codec.h
+END

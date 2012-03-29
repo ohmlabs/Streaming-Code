@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/ipjsystest/Classes
+END
+ipjsystestAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/ipjsystest/Classes/ipjsystestAppDelegate.h
+END
+TestViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/ipjsystest/Classes/TestViewController.h
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/ipjsystest/Classes/RootViewController.h
+END
+ipjsystestAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/ipjsystest/Classes/ipjsystestAppDelegate.m
+END
+TestViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/ipjsystest/Classes/TestViewController.m
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/ipjsystest/Classes/RootViewController.m
+END

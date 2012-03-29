@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/gsm
+END
+libgsmcodec.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/gsm/libgsmcodec.dsp
+END
+libgsmcodec.vcp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/gsm/libgsmcodec.vcp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/gsm/config.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/gsm/Makefile
+END
+libgsmcodec.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/build/gsm/libgsmcodec.vcproj
+END

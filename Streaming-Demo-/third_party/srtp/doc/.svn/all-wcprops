@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/doc
+END
+references.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/doc/references.txt
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/doc/Makefile.in
+END
+draft-irtf-cfrg-icm-00.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/doc/draft-irtf-cfrg-icm-00.txt
+END
+header.template
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/doc/header.template
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/doc/Doxyfile
+END
+rfc3711.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/doc/rfc3711.txt
+END
+intro.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/doc/intro.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/doc/Makefile
+END
+crypto_kernel.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/3557/pjproject/branches/1.x/third_party/srtp/doc/crypto_kernel.txt
+END

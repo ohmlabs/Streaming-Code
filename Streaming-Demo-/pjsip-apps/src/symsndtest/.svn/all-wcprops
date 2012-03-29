@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/symsndtest
+END
+symsndtest_reg.rss
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/symsndtest/symsndtest_reg.rss
+END
+app_main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/symsndtest/app_main.cpp
+END
+main_symbian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/symsndtest/main_symbian.cpp
+END

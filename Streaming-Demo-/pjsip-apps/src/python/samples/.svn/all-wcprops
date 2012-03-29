@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/python/samples
+END
+registration.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/python/samples/registration.py
+END
+call.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/python/samples/call.py
+END
+presence.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/python/samples/presence.py
+END
+simplecall.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/python/samples/simplecall.py
+END

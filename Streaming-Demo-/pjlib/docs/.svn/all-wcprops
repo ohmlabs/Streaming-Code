@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/!svn/ver/3680/pjproject/branches/1.x/pjlib/docs
+END
+footer.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/docs/footer.html
+END
+doxygen.css
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjlib/docs/doxygen.css
+END
+doxygen.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/3680/pjproject/branches/1.x/pjlib/docs/doxygen.cfg
+END
+header.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/3677/pjproject/branches/1.x/pjlib/docs/header.html
+END

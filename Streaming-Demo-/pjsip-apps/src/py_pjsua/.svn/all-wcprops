@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/py_pjsua
+END
+py_pjsua.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/py_pjsua/py_pjsua.h
+END
+helper.mak
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/py_pjsua/helper.mak
+END
+py_pjsua.def
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/py_pjsua/py_pjsua.def
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/py_pjsua/setup.py
+END
+pjsua.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/py_pjsua/pjsua.py
+END
+pjsua_app.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/py_pjsua/pjsua_app.py
+END
+py_pjsua.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/py_pjsua/py_pjsua.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/py_pjsua/Makefile
+END
+DEPRECATED.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/3557/pjproject/branches/1.x/pjsip-apps/src/py_pjsua/DEPRECATED.txt
+END
